@@ -1,2 +1,2 @@
 # Algorithm
-My implement of algorithm
+My implement of algorithm, learning from CLRS.
